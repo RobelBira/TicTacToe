@@ -139,7 +139,7 @@
 /* Media Query for Mobile Devices */
 @media only screen and (max-width: 768px) {
     .title {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     .reset {
@@ -152,5 +152,5 @@
         height: 80px;
         width: 80px;
     }
-    
+
 }
