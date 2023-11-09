@@ -80,7 +80,7 @@ const reset=()=>{
   titleRef.current.innerHTML = ' Tic Tac Toe Game In <span>React</span>'
   box_array.map((e)=>(
 
-    e.current.innerHTML = " " 
+    e.current.innerHTML = "" 
   )
 )
 }
